@@ -15,4 +15,4 @@ mcp dev main.py
 ## 参考资料
 
 - [Model Context Protocol(MCP) 编程极速入门](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
-- [智谱 AI 开发平台](https://www.bigmodel.cn/invite?icode=JXz37qMbkNdv%2BcyLuGN5tQZ3c5owLmCCcMQXWcJRS8E%3D)
+- [智谱 AI 开放平台](https://www.bigmodel.cn/invite?icode=JXz37qMbkNdv%2BcyLuGN5tQZ3c5owLmCCcMQXWcJRS8E%3D)
